@@ -1,1 +1,2 @@
-print('hello world')
+bicycles = ['terk', 'cannondale', 'redline', 'specialized']
+print(bicycles)
