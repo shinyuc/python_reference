@@ -1,0 +1,8 @@
+players = ['charles', 'martina', 'michael', 'florenece','eli']
+print(players[0:3])  # ['charles', 'martina', 'michael']
+print(players[1:4])  # ['martina', 'michael', 'florenece']
+print(players[:4])  # ['charles', 'martina', 'michael', 'florenece']
+print(players[1:])  # ['martina', 'michael', 'florenece', 'eli']
+print(players[-3:])  # ['michael', 'florenece', 'eli']
+print(players[1:4:1])  # ['martina', 'michael', 'florenece']
+print(players[1:4:2])  # ['martina', 'florenece']
